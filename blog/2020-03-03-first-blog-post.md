@@ -1,0 +1,24 @@
+---
+layout: blog
+title: First Blog Post
+date: 2020-03-03T22:10:33.140Z
+thumbnail: /assets/images/uploads/catanddog.png
+rating: 5
+---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dictum sit amet justo donec enim. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Ornare aenean euismod elementum nisi quis eleifend quam. Non sodales neque sodales ut etiam. Ultrices vitae auctor eu augue ut lectus arcu. Arcu non sodales neque sodales ut etiam. Fringilla ut morbi tincidunt augue interdum velit euismod. Adipiscing commodo elit at imperdiet dui accumsan. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Egestas purus viverra accumsan in nisl nisi. Mollis nunc sed id semper risus in hendrerit.
+
+```
+foreach(item of items) {
+    item = item;
+}
+```
+
+Ac tortor vitae purus faucibus ornare suspendisse sed. Eget lorem dolor sed viverra ipsum nunc aliquet bibendum enim. Nunc lobortis mattis aliquam faucibus purus in massa tempor. Quisque non tellus orci ac auctor. Eu turpis egestas pretium aenean pharetra magna ac. Maecenas accumsan lacus vel facilisis. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Sit amet massa vitae tortor condimentum lacinia quis. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Sit amet luctus venenatis lectus magna fringilla urna porttitor rhoncus. Diam quis enim lobortis scelerisque fermentum dui. Consequat mauris nunc congue nisi vitae suscipit tellus. Ultricies mi quis hendrerit dolor. Suspendisse potenti nullam ac tortor vitae purus. Diam vel quam elementum pulvinar. Mauris sit amet massa vitae tortor condimentum lacinia quis vel. Risus in hendrerit gravida rutrum quisque. In hendrerit gravida rutrum quisque non tellus orci. Sed risus ultricies tristique nulla aliquet enim tortor at auctor.
+
+![phillogram logo](/assets/images/uploads/phillographic-logo-v2.jpg "Philliogram Logo")
+
+Accumsan tortor posuere ac ut consequat semper viverra nam libero. Eu turpis egestas pretium aenean pharetra. Nunc sed velit dignissim sodales ut eu. Ac auctor augue mauris augue. Nullam eget felis eget nunc lobortis mattis aliquam faucibus. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Libero volutpat sed cras ornare arcu dui vivamus. Phasellus vestibulum lorem sed risus. Nisi vitae suscipit tellus mauris a diam maecenas sed. Sagittis eu volutpat odio facilisis mauris sit amet massa vitae. Vel pharetra vel turpis nunc eget lorem. Tellus molestie nunc non blandit massa enim nec. Ut consequat semper viverra nam. At consectetur lorem donec massa sapien faucibus et molestie. Lectus mauris ultrices eros in cursus turpis massa. Id semper risus in hendrerit gravida rutrum quisque. Leo vel fringilla est ullamcorper. Ac orci phasellus egestas tellus rutrum tellus. Id nibh tortor id aliquet lectus.
+
+Amet nisl purus in mollis nunc sed. Id aliquet risus feugiat in ante metus. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Nunc lobortis mattis aliquam faucibus purus in massa tempor nec. Leo in vitae turpis massa sed elementum tempus. Amet volutpat consequat mauris nunc congue nisi. Facilisis gravida neque convallis a cras semper auctor. Pellentesque diam volutpat commodo sed. Tincidunt tortor aliquam nulla facilisi. Sapien faucibus et molestie ac. Tellus cras adipiscing enim eu turpis egestas pretium aenean pharetra. Scelerisque in dictum non consectetur a erat nam at. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum fusce. Tempor orci eu lobortis elementum nibh tellus molestie nunc non. Pellentesque habitant morbi tristique senectus et netus et malesuada fames. Facilisis leo vel fringilla est ullamcorper eget nulla. Nisl nunc mi ipsum faucibus vitae aliquet.
+
+Sapien et ligula ullamcorper malesuada proin libero nunc consequat. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Enim neque volutpat ac tincidunt vitae semper quis lectus. Eget egestas purus viverra accumsan in. Ultrices neque ornare aenean euismod. A diam maecenas sed enim ut. Est ultricies integer quis auctor elit. Lobortis scelerisque fermentum dui faucibus in ornare quam. Arcu non sodales neque sodales ut etiam sit amet. Bibendum at varius vel pharetra vel. Eget arcu dictum varius duis at consectetur. Ultricies mi quis hendrerit dolor magna eget est. Pretium lectus quam id leo in vitae. Vestibulum lectus mauris ultrices eros in cursus turpis. Turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet. Bibendum ut tristique et egestas quis ipsum suspendisse ultrices gravida. Sollicitudin ac orci phasellus egestas tellus rutrum tellus pellentesque.
