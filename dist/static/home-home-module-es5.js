@@ -15,7 +15,7 @@
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<p>home works!</p>\n\n<ul>\n  <li *ngFor=\"let page of links$ | async\"><a [href]=\"page.route\">{{page.route }}</a></li>\n</ul>";
+    __webpack_exports__["default"] = "<p>home works!</p>\r\n\r\n<ul>\r\n  <li *ngFor=\"let page of links$ | async\"><a [href]=\"page.route\">{{page.route }}</a></li>\r\n</ul>";
     /***/
   },
 
