@@ -2,7 +2,7 @@
 layout: blog
 title: First Blog Post
 date: 2020-03-03T22:10:33.140Z
-thumbnail: /assets/images/uploads/catanddog.png
+thumbnail: /assets/images/uploads/phillographic-logo-v2-orange-corners.jpg
 rating: 5
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dictum sit amet justo donec enim. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Ornare aenean euismod elementum nisi quis eleifend quam. Non sodales neque sodales ut etiam. Ultrices vitae auctor eu augue ut lectus arcu. Arcu non sodales neque sodales ut etiam. Fringilla ut morbi tincidunt augue interdum velit euismod. Adipiscing commodo elit at imperdiet dui accumsan. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Egestas purus viverra accumsan in nisl nisi. Mollis nunc sed id semper risus in hendrerit.
@@ -15,7 +15,7 @@ foreach(item of items) {
 
 Ac tortor vitae purus faucibus ornare suspendisse sed. Eget lorem dolor sed viverra ipsum nunc aliquet bibendum enim. Nunc lobortis mattis aliquam faucibus purus in massa tempor. Quisque non tellus orci ac auctor. Eu turpis egestas pretium aenean pharetra magna ac. Maecenas accumsan lacus vel facilisis. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Sit amet massa vitae tortor condimentum lacinia quis. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Sit amet luctus venenatis lectus magna fringilla urna porttitor rhoncus. Diam quis enim lobortis scelerisque fermentum dui. Consequat mauris nunc congue nisi vitae suscipit tellus. Ultricies mi quis hendrerit dolor. Suspendisse potenti nullam ac tortor vitae purus. Diam vel quam elementum pulvinar. Mauris sit amet massa vitae tortor condimentum lacinia quis vel. Risus in hendrerit gravida rutrum quisque. In hendrerit gravida rutrum quisque non tellus orci. Sed risus ultricies tristique nulla aliquet enim tortor at auctor.
 
-![phillogram logo](/assets/images/uploads/phillographic-logo-v2.jpg "Philliogram Logo")
+![phillogram logo](/assets/images/uploads/phillographic-logo-v2-orange-corners.jpg "Philliogram Logo")
 
 Accumsan tortor posuere ac ut consequat semper viverra nam libero. Eu turpis egestas pretium aenean pharetra. Nunc sed velit dignissim sodales ut eu. Ac auctor augue mauris augue. Nullam eget felis eget nunc lobortis mattis aliquam faucibus. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Libero volutpat sed cras ornare arcu dui vivamus. Phasellus vestibulum lorem sed risus. Nisi vitae suscipit tellus mauris a diam maecenas sed. Sagittis eu volutpat odio facilisis mauris sit amet massa vitae. Vel pharetra vel turpis nunc eget lorem. Tellus molestie nunc non blandit massa enim nec. Ut consequat semper viverra nam. At consectetur lorem donec massa sapien faucibus et molestie. Lectus mauris ultrices eros in cursus turpis massa. Id semper risus in hendrerit gravida rutrum quisque. Leo vel fringilla est ullamcorper. Ac orci phasellus egestas tellus rutrum tellus. Id nibh tortor id aliquet lectus.
 
